@@ -1,0 +1,78 @@
+credits:
+
+  COlIN HEBERT CREATED  't_01': "audio_media/deteriorated_as_to__excerpt.ogg",
+
+The rest were taken by others work.
+
+ // https://www.youtube.com/watch?v=4SxrgWqpcQY&t=96s
+ // running out of time theme :: Ninja Tracks - Running Out Of Time
+  >>>
+     becomes file :
+  >>>
+                 "ninja_running_out_of_time.ogg"
+  >>>
+  {...  't_05': "audio_media/ninja_running_out_of_time.ogg" }
+
+ // https://www.youtube.com/watch?v=MKw21vuxEFI
+ // florescent ballast heating up sound
+
+  >>>
+     becomes file :
+  >>>
+                 "missBugHitSound.ogg"
+  >>>
+  {...    't_04': "audio_media/missBugHitSound.ogg" }
+
+ // https://freesound.org
+ // https://freesound.org/people/cribbler/sounds/380381/
+
+  >>>
+     becomes file :
+  >>>
+              "380381__cribbler__squashing-sallad.ogg"
+  >>>
+  {...   't_02': "audio_media/380381__cribbler__squashing-sallad.ogg" }
+
+
+  // https://freesound.org
+  // https://freesound.org/people/JoseAgudelo/sounds/472399/
+
+  >>>
+     becomes file :
+  >>>
+                  "472399__joseagudelo__16-raton-chillando.ogg"
+  >>>
+  {...    't_03': "audio_media/472399__joseagudelo__16-raton-chillando.ogg" }
+
+ // https://wiw.org/~jess/multimedia.html
+ //
+
+  https://wiw.org/~jess/multimedia/08-%20Space%20Quest%20IV%20(MT-32)-%20Xenon%20Sewers.mp3
+
+  >>>
+     becomes file :
+  >>>
+                "08- Space Quest IV (MT-32)- Xenon Sewers.ogg"
+  >>>
+  {...  var used in sketch.js line 12 ::  like the following reproduction:   var audio = new Audio("audio_media/08- Space Quest IV (MT-32)- Xenon Sewers.ogg"); }
+
+
+
+ https://www.turbosquid.com/3d-models/3d-ant-animations-1333816
+
+// original file had code tag: DHQ //
+
+
+  >>>
+     becomes file :
+  >>>
+                "ant_background.jpg"
+
+
+
+  https://bigblueboo.tumblr.com/post/92829290894/waveform
+
+  >>>
+     becomes file :
+  >>>
+                "tumblr_n98y5nl9k21rpco88o1_500.gif"
